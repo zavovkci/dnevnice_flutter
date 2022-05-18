@@ -1,4 +1,4 @@
-# Dnevnice / Putni nalozi
+# WIP: Dnevnice / Putni nalozi
 Aplikacija za pravljenje putnih nalog / izracun dnevnica u Flutter-u. <br>
 
 ## Kriterij za ostvarivanje dnevnice
